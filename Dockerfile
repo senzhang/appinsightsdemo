@@ -1,5 +1,6 @@
 # Use a Java base image
-FROM mcr.microsoft.com/windows/servercore:ltsc2022
+#FROM mcr.microsoft.com/windows/servercore:ltsc2022
+FROM openjdk:21-slim
 
 # Set the working directory to /app
 WORKDIR /app
