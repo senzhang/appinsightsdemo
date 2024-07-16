@@ -6,7 +6,7 @@ FROM openjdk:21-slim
 WORKDIR /app
 
 # Copy the Spring Boot application JAR file into the Docker image
-COPY target/appinsightsdemo-3.2.7.jar /app/appinsightsdemo.jar
+COPY target/appinsightsdemo.jar /app/appinsightsdemo.jar
 
 # Expose the port that the application will run on
 EXPOSE 8080
