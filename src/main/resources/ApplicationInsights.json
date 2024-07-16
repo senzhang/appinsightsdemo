@@ -1,0 +1,4 @@
+{
+    "connectionString": "InstrumentationKey=aec6e7a1-01cb-c33f-be95-2acbb59608a0;EndpointSuffix=applicationinsights.azure.cn;IngestionEndpoint=https://chinanorth3-0.in.applicationinsights.azure.cn/;AADAudience=https://monitor.azure.cn/;ApplicationId=c234718a-04a4-44e8-9652-caae47ed0375"
+  }
+  
