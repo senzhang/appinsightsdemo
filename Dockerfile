@@ -1,14 +1,14 @@
 # Use a Java base image
-FROM openjdk:17-jdk-alpine
+FROM mcr.microsoft.com/windows/servercore:ltsc2022
 
 # Set the working directory to /app
 WORKDIR /app
 
 # Copy the Spring Boot application JAR file into the Docker image
-COPY target/your-app.jar /app/your-app.jar
+COPY target/appinsightsdemo-3.2.7.jar /app/appinsightsdemo.jar
 
 # Expose the port that the application will run on
 EXPOSE 8080
 
 # Command to run the application
-ENTRYPOINT ["java", "-jar", "/app/your-app.jar"]
+ENTRYPOINT ["java", "-jar", "/app/appinsightsdemo.jar"]
