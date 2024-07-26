@@ -4,7 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Sen Zhang"
+                "name": "Sen Zhang",
+                "location": "Ottawa, ON"
             },
             "geometry": {
                 "type": "Point",
@@ -15,7 +16,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Stanley Huang"
+                "name": "Stanley Huang",
+                "location": "Toronto, ON"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +28,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Lex Li"
+                "name": "Lex Li",
+                "location": "Toronto, ON"
             },
             "geometry": {
                 "type": "Point",
