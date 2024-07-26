@@ -1,41 +1,8 @@
 {
     "type": "FeatureCollection",
     "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Sen Zhang",
-                "location": "Ottawa, ON"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-75.69243, 45.42042]
-            },
-            "id": "ci40672167"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Stanley Huang",
-                "location": "Toronto, ON"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-79.38171, 43.65189]
-            },
-            "id": "hv74367231"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Lex Li",
-                "location": "Toronto, ON"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-79.38171, 43.65189]
-            },
-            "id": "hv74367231"
-        }
+{"type": "Feature","geometry": {"type": "Point","coordinates": [-75.69243, 45.42042]},"properties": {"name": "Sen Zhang","City":"Ottawa","State":"Ontario","Country":"CA"}},
+{"type": "Feature","geometry": {"type": "Point","coordinates": [-79.38171, 43.65189]},"properties": {"name": "Stanley Huang","City":"Toronto","State":"Ontario","Country":"CA"}},
+{"type": "Feature","geometry": {"type": "Point","coordinates": [-79.38171, 43.65189]},"properties": {"name": "Lex Li","City":"Toronto","State":"Ontario","Country":"CA"}}
     ]
 }
