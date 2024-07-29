@@ -14,7 +14,7 @@
 {"type": "Feature","geometry": {"type": "Point","coordinates": [-123.1651031, 49.2577281]},"properties": {"name": "Qingbo Jin","City":"Vancouver","State":"British Columbia","Country":"CA"}},
 {"type": "Feature","geometry": {"type": "Point","coordinates": [-123.1651031, 49.2577281]},"properties": {"name": "Han Zhang","City":"Vancouver","State":"British Columbia","Country":"CA"}},
 {"type": "Feature","geometry": {"type": "Point","coordinates": [-123.1651031, 49.2577281]},"properties": {"name": "Runze Guo","City":"Vancouver","State":"British Columbia","Country":"CA"}},
-{"type": "Feature","geometry": {"type": "Point","coordinates": [-122.6760499, 47.5210374]},"properties": {"name": "Tom Luan","City":"Seattle","State":"Washington","Country":"US"}},
+{"type": "Feature","geometry": {"type": "Point","coordinates": [-122.4956778, 47.6086094]},"properties": {"name": "Tom Luan","City":"Seattle","State":"Washington","Country":"US"}},
 {"type": "Feature","geometry": {"type": "Point","coordinates": [-122.3492981, 37.6629992]},"properties": {"name": "Ethan Yu","City":"San Francisco","State":"California","Country":"US"}},
 {"type": "Feature","geometry": {"type": "Point","coordinates": [-96.8963559, 32.8205566]},"properties": {"name": "Peng Lv","City":"Dallas","State":"Texas","Country":"US"}},
 {"type": "Feature","geometry": {"type": "Point","coordinates": [-79.38171, 43.65189]},"properties": {"name": "Lex Li","City":"Toronto","State":"Ontario","Country":"CA"}}
