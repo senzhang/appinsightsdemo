@@ -11,11 +11,11 @@
 {"type": "Feature","geometry": {"type": "Point","coordinates": [-79.38171, 43.65189]},"properties": {"name": "Sun Lam","City":"Toronto","State":"Ontario","Country":"CA"}},
 {"type": "Feature","geometry": {"type": "Point","coordinates": [-95.7130878, 29.816812]},"properties": {"name": "Li Li","City":"Houston","State":"Texas","Country":"US"}},
 {"type": "Feature","geometry": {"type": "Point","coordinates": [-114.3996135, 51.0272085]},"properties": {"name": "Mindy Chen","City":"Calgary","State":"Alberta","Country":"CA"}},
-{"type": "Feature","geometry": {"type": "Point","coordinates": [-114.3996135, 51.0272085]},"properties": {"name": "Qingbo Jin","City":"Vancouver","State":"British Columbia","Country":"CA"}},
-{"type": "Feature","geometry": {"type": "Point","coordinates": [-114.3996135, 51.0272085]},"properties": {"name": "Han Zhang","City":"Vancouver","State":"British Columbia","Country":"CA"}},
-{"type": "Feature","geometry": {"type": "Point","coordinates": [-114.3996135, 51.0272085]},"properties": {"name": "Runze Guo","City":"Vancouver","State":"British Columbia","Country":"CA"}},
-{"type": "Feature","geometry": {"type": "Point","coordinates": [-95.7130878, 29.816812]},"properties": {"name": "Tom Luan","City":"Houston","State":"Washington","Country":"US"}},
-{"type": "Feature","geometry": {"type": "Point","coordinates": [-122.3492981, 37.6629992]},"properties": {"name": "Ethan Yu","City":"San Francisco","State":"Washington","Country":"US"}},
+{"type": "Feature","geometry": {"type": "Point","coordinates": [-123.1651031, 49.2577281]},"properties": {"name": "Qingbo Jin","City":"Vancouver","State":"British Columbia","Country":"CA"}},
+{"type": "Feature","geometry": {"type": "Point","coordinates": [-123.1651031, 49.2577281]},"properties": {"name": "Han Zhang","City":"Vancouver","State":"British Columbia","Country":"CA"}},
+{"type": "Feature","geometry": {"type": "Point","coordinates": [-123.1651031, 49.2577281]},"properties": {"name": "Runze Guo","City":"Vancouver","State":"British Columbia","Country":"CA"}},
+{"type": "Feature","geometry": {"type": "Point","coordinates": [-122.6760499, 47.5210374]},"properties": {"name": "Tom Luan","City":"Houston","State":"Washington","Country":"US"}},
+{"type": "Feature","geometry": {"type": "Point","coordinates": [-122.3492981, 37.6629992]},"properties": {"name": "Ethan Yu","City":"San Francisco","State":"California","Country":"US"}},
 {"type": "Feature","geometry": {"type": "Point","coordinates": [-96.8963559, 32.8205566]},"properties": {"name": "Peng Lv","City":"Seattle","State":"Texas","Country":"US"}},
 {"type": "Feature","geometry": {"type": "Point","coordinates": [-79.38171, 43.65189]},"properties": {"name": "Lex Li","City":"Toronto","State":"Ontario","Country":"CA"}}
     ]
